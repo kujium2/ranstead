@@ -1,0 +1,25 @@
+{
+    "name": "Logan Walker",
+    "age": 14,
+    "address": {
+        "street": "Pace Keys",
+        "city": "South Christopher",
+        "state": "Colorado",
+        "zip": "21065"
+    },
+    "contact": {
+        "phone": "+1-908-819-0370x0894",
+        "servicePhone": "800329350"
+    },
+    "birthday": "2011-07-10",
+    "ip": "156.234.171.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank film theory same manage result wall. Draw author may shoulder evidence become. Quality threat option agent remain man new before. Wear ground light green.",
+        "bio": "Sound claim bag. Offer air claim reality guess building. Fear alone decision family.\nPull available play personal their instead cause. Leg it though figure any yeah."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
