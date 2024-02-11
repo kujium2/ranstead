@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Robles",
+    "age": 106,
+    "address": {
+        "street": "Brenda Flat",
+        "city": "Lake Christineton",
+        "state": "Idaho",
+        "zip": "94155"
+    },
+    "contact": {
+        "phone": "4852795039",
+        "servicePhone": "800275831"
+    },
+    "birthday": "1919-01-02",
+    "ip": "22.171.110.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain game production instead much like difference. Power job along treatment remember.\nThink get theory kind professor similar. Charge as trouble story design.",
+        "bio": "Score born program scientist. Week pressure office far wall firm matter example.\nShould three through watch finish. Nearly street western list. Bank issue mean listen wall. Cost director race word."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
