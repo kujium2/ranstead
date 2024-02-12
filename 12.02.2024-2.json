@@ -1,0 +1,25 @@
+{
+    "name": "Nicolas Cummings",
+    "age": 34,
+    "address": {
+        "street": "Rowe Plains",
+        "city": "West Lori",
+        "state": "Indiana",
+        "zip": "33036"
+    },
+    "contact": {
+        "phone": "9569902854",
+        "servicePhone": "800152035"
+    },
+    "birthday": "1991-20-04",
+    "ip": "28.62.221.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat himself station weight fish step fight. Could available establish tell put safe. War oil total because exactly child.",
+        "bio": "Mind remain several year source appear. Start business western degree. Director speech adult song less. Plan sea under street power."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
