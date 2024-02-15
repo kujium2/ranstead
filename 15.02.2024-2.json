@@ -1,0 +1,25 @@
+{
+    "name": "Ebony Jackson",
+    "age": 66,
+    "address": {
+        "street": "Benjamin Center",
+        "city": "Williamton",
+        "state": "New Hampshire",
+        "zip": "69263"
+    },
+    "contact": {
+        "phone": "+1-714-500-9125x609",
+        "servicePhone": "800508946"
+    },
+    "birthday": "1959-01-03",
+    "ip": "50.169.155.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy despite idea rate identify. Finally matter government sound. Finally five eye compare way thank world experience.",
+        "bio": "Million from company today particularly family we southern. Ago help exactly Mr size number.\nFilm very price prevent. Table whatever official later.\nLess office back thought."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
