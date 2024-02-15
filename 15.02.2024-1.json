@@ -1,0 +1,25 @@
+{
+    "name": "Desiree White",
+    "age": 102,
+    "address": {
+        "street": "Cummings Lock",
+        "city": "Jacksonstad",
+        "state": "Texas",
+        "zip": "96909"
+    },
+    "contact": {
+        "phone": "303.830.9062x3848",
+        "servicePhone": "800447011"
+    },
+    "birthday": "1923-24-07",
+    "ip": "19.134.243.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Other certainly how. Guy short certain tree. Painting political above vote will small wrong.\nExpect decision receive suffer very network. Respond finally crime find case.",
+        "bio": "Executive economy hope cover sing number shoulder give. Game price man society loss charge. Certain three easy market sound phone member. Rule process project say special."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
