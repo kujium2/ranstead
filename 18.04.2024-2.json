@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Ware",
+    "age": 27,
+    "address": {
+        "street": "Moore Heights",
+        "city": "Booneborough",
+        "state": "Kansas",
+        "zip": "92332"
+    },
+    "contact": {
+        "phone": "+1-847-284-6660",
+        "servicePhone": "800026887"
+    },
+    "birthday": "1998-05-07",
+    "ip": "10.233.197.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye above instead. Break class under hand whole. Few table forget its until know music.\nFor make read interview action piece speak. Room me stop movie close game structure.",
+        "bio": "Star strategy how course exactly newspaper father chance. Public theory keep send. Particular board government second painting which. Red return window difficult."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
