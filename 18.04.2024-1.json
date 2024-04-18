@@ -1,0 +1,25 @@
+{
+    "name": "Tina Thomas",
+    "age": 41,
+    "address": {
+        "street": "Berg Orchard",
+        "city": "North Kathy",
+        "state": "Nebraska",
+        "zip": "77728"
+    },
+    "contact": {
+        "phone": "8083351670",
+        "servicePhone": "800994149"
+    },
+    "birthday": "1984-04-09",
+    "ip": "1.58.127.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Former write leader letter large. Happen chance sit interesting win ever nor. Surface however suddenly. Black own affect three look.\nHuman born past treatment foreign ask vote.",
+        "bio": "Though suddenly choose strong who them. Appear last rule pick. Between court charge together maintain meet my. Condition store nation six."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
