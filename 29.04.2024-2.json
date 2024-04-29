@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Cummings",
+    "age": 63,
+    "address": {
+        "street": "Barker Plaza",
+        "city": "Ronaldland",
+        "state": "Indiana",
+        "zip": "59826"
+    },
+    "contact": {
+        "phone": "697-686-4402x498",
+        "servicePhone": "800225740"
+    },
+    "birthday": "1962-25-08",
+    "ip": "199.92.25.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote ok near house. Expect above administration.\nDecide catch much politics street a. Know six firm season. He base project garden everybody.",
+        "bio": "Commercial single toward ok account. Tonight foot together door political west. Age resource whose father.\nEverybody public reach network church. Film program fact talk push either."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
