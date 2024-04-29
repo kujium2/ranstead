@@ -1,0 +1,25 @@
+{
+    "name": "Jose May",
+    "age": 77,
+    "address": {
+        "street": "Brown Mountains",
+        "city": "Lake Abigailland",
+        "state": "Ohio",
+        "zip": "94476"
+    },
+    "contact": {
+        "phone": "606.294.9597x445",
+        "servicePhone": "800651540"
+    },
+    "birthday": "1948-01-01",
+    "ip": "3.33.151.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Must free parent analysis lot. Eight knowledge road summer read news.\nMarriage participant lay. Become by nature car while actually show just.",
+        "bio": "This why real say life former. Institution under old spring election campaign rise.\nNotice leader step field. When capital Congress play. Or open really art."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
