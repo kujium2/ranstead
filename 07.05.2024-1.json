@@ -1,0 +1,25 @@
+{
+    "name": "Angel Hoover",
+    "age": 4,
+    "address": {
+        "street": "Summer Passage",
+        "city": "Ginastad",
+        "state": "North Carolina",
+        "zip": "48940"
+    },
+    "contact": {
+        "phone": "001-678-630-5647x376",
+        "servicePhone": "800883706"
+    },
+    "birthday": "2021-04-10",
+    "ip": "154.20.182.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman fire water entire can language say or. Cover where catch high. Ability whole grow.\nAgent threat two. Road well example cut board. Fast people kitchen answer write film special avoid.",
+        "bio": "Order expert store ten project them network. Tough pull better between leg suffer."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
