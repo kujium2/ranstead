@@ -1,0 +1,25 @@
+{
+    "name": "Misty Ball",
+    "age": 58,
+    "address": {
+        "street": "Christine Points",
+        "city": "East Benjamin",
+        "state": "New Hampshire",
+        "zip": "81233"
+    },
+    "contact": {
+        "phone": "8906133980",
+        "servicePhone": "800934167"
+    },
+    "birthday": "1967-03-08",
+    "ip": "82.5.85.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor act growth realize. Whatever house television wonder discover center believe. American operation smile.",
+        "bio": "Party herself bank simple. Of along player great. Prove person someone. Sister beat top join country bit someone.\nTough front either. Style artist result. Main energy think simply."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
