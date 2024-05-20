@@ -1,0 +1,25 @@
+{
+    "name": "Adam Taylor",
+    "age": 33,
+    "address": {
+        "street": "Catherine Streets",
+        "city": "West Tina",
+        "state": "Massachusetts",
+        "zip": "90277"
+    },
+    "contact": {
+        "phone": "8156077613",
+        "servicePhone": "800707443"
+    },
+    "birthday": "1992-01-05",
+    "ip": "222.193.22.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Once have whole degree he style. Method with who citizen. White six baby score position middle.\nScience those seem seven artist prove. Tell gas by eight toward oil.",
+        "bio": "Price score husband high. Activity dog training before bad plant."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
