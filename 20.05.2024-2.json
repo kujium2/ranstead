@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Curtis",
+    "age": 114,
+    "address": {
+        "street": "Woods Terrace",
+        "city": "Weberborough",
+        "state": "West Virginia",
+        "zip": "34665"
+    },
+    "contact": {
+        "phone": "295-213-3789",
+        "servicePhone": "800718305"
+    },
+    "birthday": "1911-31-08",
+    "ip": "136.165.139.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Race seem approach arm free positive. Indeed human effort democratic where drug camera. Practice score raise street fly pick. Special wife throw ago why tell all.",
+        "bio": "Measure yard write test material. Anyone rather fill especially might child police three.\nLawyer her you significant example ball. Still half you church drive edge."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
