@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Walker",
+    "age": 82,
+    "address": {
+        "street": "Barron Shores",
+        "city": "East Glendaview",
+        "state": "Pennsylvania",
+        "zip": "15221"
+    },
+    "contact": {
+        "phone": "001-943-556-2275x92433",
+        "servicePhone": "800990733"
+    },
+    "birthday": "1943-20-02",
+    "ip": "123.185.192.61",
+    "foo": "bar",
+    "profile": {
+        "about": "War government message use success dark. Ahead investment different try. Arrive strategy individual practice return hard line something. Guess professor rule early office by.",
+        "bio": "Interest some wear carry as either. Test check fine.\nBit edge stand determine.\nHusband quite name Congress possible. Look party cut in successful final above."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
