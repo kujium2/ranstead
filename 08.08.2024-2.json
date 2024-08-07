@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Jackson",
+    "age": 90,
+    "address": {
+        "street": "David Lodge",
+        "city": "North Savannah",
+        "state": "Texas",
+        "zip": "71236"
+    },
+    "contact": {
+        "phone": "266.962.2852x414",
+        "servicePhone": "800439438"
+    },
+    "birthday": "1935-15-04",
+    "ip": "37.208.198.144",
+    "foo": "bar",
+    "profile": {
+        "about": "One task sit successful.\nSpend spring main scene quality. Fly year movement close do.\nTen into democratic value major carry arm. Similar give morning against.",
+        "bio": "Thus those old either song. Against pay economy professional.\nAnimal radio sister. Check even leg left final officer black. Tell enter gun that name relate."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
