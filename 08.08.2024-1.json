@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Michelle Ramirez",
+    "age": 74,
+    "address": {
+        "street": "Dana Mills",
+        "city": "North Vanessaborough",
+        "state": "Virginia",
+        "zip": "57271"
+    },
+    "contact": {
+        "phone": "314-965-4626x331",
+        "servicePhone": "800050878"
+    },
+    "birthday": "1951-02-03",
+    "ip": "157.180.15.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest PM certain owner mean easy tend. Coach spring church hold data clear response. Yeah describe activity at.\nIf once fire him answer any film. Wind her see thought.",
+        "bio": "Easy spring someone blood gas. Participant long mission home.\nSea across each religious remain. Customer voice necessary stop age while. Follow activity pattern election if whole."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
