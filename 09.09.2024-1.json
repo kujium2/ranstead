@@ -1,0 +1,25 @@
+{
+    "name": "Claudia Mendez",
+    "age": 13,
+    "address": {
+        "street": "Fox Mountain",
+        "city": "Elizabethside",
+        "state": "South Dakota",
+        "zip": "70973"
+    },
+    "contact": {
+        "phone": "(359)320-4974",
+        "servicePhone": "800966626"
+    },
+    "birthday": "2012-25-10",
+    "ip": "135.214.70.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Section nor town mind me. Trouble while spring voice house explain field.\nLike from might page. Material suddenly carry discuss guess card knowledge.",
+        "bio": "Eat receive back pull sure child letter. Man position occur. Vote away its worker."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
