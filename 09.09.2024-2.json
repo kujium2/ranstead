@@ -1,0 +1,25 @@
+{
+    "name": "Terri Dunn",
+    "age": 93,
+    "address": {
+        "street": "David Rapid",
+        "city": "South Elizabeth",
+        "state": "Maryland",
+        "zip": "57858"
+    },
+    "contact": {
+        "phone": "833.540.2280x071",
+        "servicePhone": "800145166"
+    },
+    "birthday": "1932-30-12",
+    "ip": "145.117.178.130",
+    "foo": "bar",
+    "profile": {
+        "about": "News all break wonder industry us. Must court we edge college staff experience. Candidate girl exactly soon seven.\nBed wall maintain where factor program drug. Leg true when provide care.",
+        "bio": "Room each wife which sign by bank. At analysis expert security market field media. Language door development something. Add third pay after."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
