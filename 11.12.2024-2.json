@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Graham",
+    "age": 53,
+    "address": {
+        "street": "Hansen Extension",
+        "city": "Bakerland",
+        "state": "Georgia",
+        "zip": "39953"
+    },
+    "contact": {
+        "phone": "001-856-905-3070x24149",
+        "servicePhone": "800094516"
+    },
+    "birthday": "1972-15-09",
+    "ip": "70.167.174.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Available prevent wife evidence offer process management.\nRest leg to party black long foot. Score dinner allow wide. Interest president less star prove let. Marriage individual cause real would.",
+        "bio": "Baby third make guy common minute. Maybe management nothing worry month lose coach world.\nAlways technology stock just life perform hair. Decade herself whether sister."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
