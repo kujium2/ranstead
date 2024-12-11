@@ -1,0 +1,25 @@
+{
+    "name": "Paul Jones",
+    "age": 11,
+    "address": {
+        "street": "Rachel Motorway",
+        "city": "Strongbury",
+        "state": "Mississippi",
+        "zip": "79920"
+    },
+    "contact": {
+        "phone": "001-319-247-6386x079",
+        "servicePhone": "800897788"
+    },
+    "birthday": "2014-01-05",
+    "ip": "167.99.69.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Public rock certainly ball bit happy threat low. Performance move PM least agent crime nor.\nMake control enough final. Family game write product care.",
+        "bio": "Culture short view threat down. Key trial defense toward. Wonder space yourself decide such high."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
